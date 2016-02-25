@@ -1,0 +1,16 @@
+4bc506b63203c3737c33dffe27f0c424 *DESCRIPTION
+eb723b61539feef013de476e68b5c50a *GPL-2
+2447c3c563d67eb6a93cb80405e90bb5 *NAMESPACE
+feea625c4a1e1f20364355a97fa627dc *R/livechatCreateAccount.R
+bbb9fcf577fc4153b110cd64a1b26a80 *R/livechatGetAgents.R
+3083478e2286cc4ae45a4c707f5ff53d *R/livechatGetCannedResponses.R
+90514299ef354edc4a808109ada76772 *R/livechatGetChats.R
+5d3a5191fa5c25789dac6f2c5639b2e0 *R/livechatGetGoals.R
+827027accfe7371d97d44a268a814b75 *R/livechatGetGreetings.R
+aea573c7afc4299660f5f7037203e9c7 *README.md
+04dd48215027ea695f9cf050aba1c150 *man/livechatCreateAccount.Rd
+a5a4fdd5312e29c87be429d7576e684e *man/livechatGetAgents.Rd
+4cfedd697834bd33ceb6dda22efa52ad *man/livechatGetCannedResponses.Rd
+5d7b5bf502420b28dd4aa20c0e3ba838 *man/livechatGetChats.Rd
+f9b0b60967d1f2f9e5739b92644cbad0 *man/livechatGetGoals.Rd
+d537efcdcc2644b16eb99a98811f12e3 *man/livechatGetGreetings.Rd
